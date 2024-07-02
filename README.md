@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Jayson, an <a href="https://linkedin.com/in/jaysonrodriguez">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jayson, an <a href="https://www.linkedin.com/in/jayson-rodriguez-15907a244/?trk=opento_sprofile_pfeditor">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
